@@ -1,0 +1,7 @@
+{"userName":"zira876","Password":"87654","holderName":"gull","Type":"saving","Balance":49000,"Status":"active","Account_No":1,"transcationAmount":0}
+{"userName":"tfoo876","Password":"87654","holderName":"Gull","Type":"saving","Balance":80000,"Status":"active","Account_No":2,"transcationAmount":0}
+{"userName":"zor876","Password":"87654","holderName":"Ali Ahmed","Type":"current","Balance":90000,"Status":"active","Account_No":3,"transcationAmount":0}
+{"userName":"szrwvi87","Password":"87654","holderName":"Haider","Type":"saving","Balance":100000,"Status":"active","Account_No":5,"transcationAmount":0}
+{"userName":"55954","Password":"87654","holderName":"DotNet Dude","Type":"saving","Balance":120000,"Status":"active","Account_No":15,"transcationAmount":0}
+{"userName":"56924","Password":"87654","holderName":"M. XYZ","Type":"saving","Balance":8000,"Status":"active","Account_No":16,"transcationAmount":0}
+{"userName":"Zor","Password":"87654","holderName":"Ali","Type":"savings","Balance":1000,"Status":"active","Account_No":17,"transcationAmount":0}

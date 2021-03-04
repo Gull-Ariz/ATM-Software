@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "restore": {
+    "K:\\semester07\\EAD\\viva\\Assignment01\\Assignment01\\Assignment01.csproj": {}
+  },
+  "projects": {
+    "K:\\semester07\\EAD\\viva\\Assignment01\\Assignment01\\Assignment01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\semester07\\EAD\\viva\\Assignment01\\Assignment01\\Assignment01.csproj",
+        "projectName": "Assignment01",
+        "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\Assignment01\\Assignment01.csproj",
+        "packagesPath": "C:\\Users\\sheraz\\.nuget\\packages\\",
+        "outputPath": "K:\\semester07\\EAD\\viva\\Assignment01\\Assignment01\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sheraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_view\\ATM_view.csproj": {
+                "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_view\\ATM_view.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BLL\\ATM_BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BLL\\ATM_BLL.csproj",
+        "projectName": "ATM_BLL",
+        "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BLL\\ATM_BLL.csproj",
+        "packagesPath": "C:\\Users\\sheraz\\.nuget\\packages\\",
+        "outputPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sheraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\ATM_BO.csproj": {
+                "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\ATM_BO.csproj"
+              },
+              "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_DAL\\ATM_DAL.csproj": {
+                "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_DAL\\ATM_DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\ATM_BO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\ATM_BO.csproj",
+        "projectName": "ATM_BO",
+        "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\ATM_BO.csproj",
+        "packagesPath": "C:\\Users\\sheraz\\.nuget\\packages\\",
+        "outputPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sheraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_DAL\\ATM_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_DAL\\ATM_DAL.csproj",
+        "projectName": "ATM_DAL",
+        "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_DAL\\ATM_DAL.csproj",
+        "packagesPath": "C:\\Users\\sheraz\\.nuget\\packages\\",
+        "outputPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sheraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\ATM_BO.csproj": {
+                "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\ATM_BO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_view\\ATM_view.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_view\\ATM_view.csproj",
+        "projectName": "ATM_view",
+        "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_view\\ATM_view.csproj",
+        "packagesPath": "C:\\Users\\sheraz\\.nuget\\packages\\",
+        "outputPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_view\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sheraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BLL\\ATM_BLL.csproj": {
+                "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BLL\\ATM_BLL.csproj"
+              },
+              "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\ATM_BO.csproj": {
+                "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_BO\\ATM_BO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

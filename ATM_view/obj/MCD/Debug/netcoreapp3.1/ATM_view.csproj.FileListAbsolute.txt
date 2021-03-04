@@ -1,0 +1,9 @@
+C:\Users\sheraz\source\repos\Assignment01\ATM_view\bin\MCD\Debug\netcoreapp3.1\ATM_view.deps.json
+C:\Users\sheraz\source\repos\Assignment01\ATM_view\bin\MCD\Debug\netcoreapp3.1\ATM_view.dll
+C:\Users\sheraz\source\repos\Assignment01\ATM_view\bin\MCD\Debug\netcoreapp3.1\ATM_view.pdb
+C:\Users\sheraz\source\repos\Assignment01\ATM_view\obj\MCD\Debug\netcoreapp3.1\ATM_view.csprojAssemblyReference.cache
+C:\Users\sheraz\source\repos\Assignment01\ATM_view\obj\MCD\Debug\netcoreapp3.1\ATM_view.AssemblyInfoInputs.cache
+C:\Users\sheraz\source\repos\Assignment01\ATM_view\obj\MCD\Debug\netcoreapp3.1\ATM_view.AssemblyInfo.cs
+C:\Users\sheraz\source\repos\Assignment01\ATM_view\obj\MCD\Debug\netcoreapp3.1\ATM_view.csproj.CoreCompileInputs.cache
+C:\Users\sheraz\source\repos\Assignment01\ATM_view\obj\MCD\Debug\netcoreapp3.1\ATM_view.dll
+C:\Users\sheraz\source\repos\Assignment01\ATM_view\obj\MCD\Debug\netcoreapp3.1\ATM_view.pdb

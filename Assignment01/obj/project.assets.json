@@ -1,0 +1,151 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ATM_BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ATM_BO": "1.0.0",
+          "ATM_DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ATM_BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ATM_BLL.dll": {}
+        }
+      },
+      "ATM_BO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ATM_BO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ATM_BO.dll": {}
+        }
+      },
+      "ATM_DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ATM_BO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ATM_DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ATM_DAL.dll": {}
+        }
+      },
+      "ATM_view/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ATM_BLL": "1.0.0",
+          "ATM_BO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ATM_view.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ATM_view.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATM_BLL/1.0.0": {
+      "type": "project",
+      "path": "../ATM_BLL/ATM_BLL.csproj",
+      "msbuildProject": "../ATM_BLL/ATM_BLL.csproj"
+    },
+    "ATM_BO/1.0.0": {
+      "type": "project",
+      "path": "../ATM_BO/ATM_BO.csproj",
+      "msbuildProject": "../ATM_BO/ATM_BO.csproj"
+    },
+    "ATM_DAL/1.0.0": {
+      "type": "project",
+      "path": "../ATM_DAL/ATM_DAL.csproj",
+      "msbuildProject": "../ATM_DAL/ATM_DAL.csproj"
+    },
+    "ATM_view/1.0.0": {
+      "type": "project",
+      "path": "../ATM_view/ATM_view.csproj",
+      "msbuildProject": "../ATM_view/ATM_view.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ATM_view >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sheraz\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "K:\\semester07\\EAD\\viva\\Assignment01\\Assignment01\\Assignment01.csproj",
+      "projectName": "Assignment01",
+      "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\Assignment01\\Assignment01.csproj",
+      "packagesPath": "C:\\Users\\sheraz\\.nuget\\packages\\",
+      "outputPath": "K:\\semester07\\EAD\\viva\\Assignment01\\Assignment01\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sheraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_view\\ATM_view.csproj": {
+              "projectPath": "K:\\semester07\\EAD\\viva\\Assignment01\\ATM_view\\ATM_view.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
